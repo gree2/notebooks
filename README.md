@@ -1,6 +1,13 @@
 # notebooks
 ipython notebooks
 
+1. pandas ploting
+
+    1. [pandas_basic_plotting_and_other_plots.ipynb](http://nbviewer.ipython.org/github/gree2/notebooks/blob/master/pandas_basic_plotting_and_other_plots.ipynb)
+    1. [pandas_plot_formatting.ipynb](http://nbviewer.ipython.org/github/gree2/notebooks/blob/master/pandas_plot_formatting.ipynb)
+    1. [pandas_plotting_directly_with_matplotlib.ipynb](http://nbviewer.ipython.org/github/gree2/notebooks/blob/master/pandas_plotting_directly_with_matplotlib.ipynb)
+    1. [pandas_plotting_tools.ipynb](http://nbviewer.ipython.org/github/gree2/notebooks/blob/master/pandas_plotting_tools.ipynb)
+
 1. [seaborn tutorial choosing color palettes.ipynb](http://nbviewer.ipython.org/github/gree2/notebooks/blob/master/seaborn%20tutorial%20choosing%20color%20palettes.ipynb)
 
     1. building color palettes with `color_palette()
