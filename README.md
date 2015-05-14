@@ -8,7 +8,7 @@ ipython notebooks
     1. [pandas_plotting_directly_with_matplotlib.ipynb](http://nbviewer.ipython.org/github/gree2/notebooks/blob/master/pandas_plotting_directly_with_matplotlib.ipynb)
     1. [pandas_plotting_tools.ipynb](http://nbviewer.ipython.org/github/gree2/notebooks/blob/master/pandas_plotting_tools.ipynb)
 
-1. [seaborn tutorial choosing color palettes.ipynb](http://nbviewer.ipython.org/github/gree2/notebooks/blob/master/seaborn%20tutorial%20choosing%20color%20palettes.ipynb)
+1. [seaborn_tutorial_choosing_color_palettes.ipynb](http://nbviewer.ipython.org/github/gree2/notebooks/blob/master/seaborn_tutorial_choosing_color_palettes.ipynb)
 
     1. building color palettes with `color_palette()
     1. qualitative color palettes
@@ -22,7 +22,7 @@ ipython notebooks
     1. custom diverging palettes with `diverging_palette()`
     1. changing default palettess with `set_palette()`
 
-1. [seaborn turotial linear models with quantitative data](http://nbviewer.ipython.org/github/gree2/notebooks/blob/master/seaborn%20tutorial%20linear%20models%20with%20quantitative%20data.ipynb)
+1. [seaborn_turotial_linear_models_with_quantitative_data](http://nbviewer.ipython.org/github/gree2/notebooks/blob/master/seaborn_tutorial_linear_models_with_quantitative_data.ipynb)
 
     1. visualizing multiple regression with `lmplot()`
     1. plotting with discrete predictor variables
@@ -35,7 +35,7 @@ ipython notebooks
     1. describing continuous interactions with `interactplot()`
     1. plotting model coefficients with `coefplot()`
 
-1. [seaborn tutorial visualizing distributions of data.ipynb](http://nbviewer.ipython.org/github/gree2/notebooks/blob/master/seaborn%20tutorial%20visualizing%20distributions%20of%20data.ipynb)
+1. [seaborn_tutorial_visualizing_distributions_of_data.ipynb](http://nbviewer.ipython.org/github/gree2/notebooks/blob/master/seaborn_tutorial_visualizing_distributions_of_data.ipynb)
 
     1. basic visualization with histograms
     1. estimating the density of the observations: kdeplot and rugplot
