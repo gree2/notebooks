@@ -55,7 +55,17 @@ Reveal.initialize({
     // Theme
     // available themes are in /css/theme
     // beige/black/blood/league/moon/night/serif/simple/sky/solarized/white
-    theme: 'simple'
+    theme: 'simple',
+
+    // Optional reveal.js plugins
+    dependencies: [
+	{ src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+	{ src: 'reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+	{ src: 'reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+	{ src: 'reveal.js/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+	{ src: 'reveal.js/plugin/zoom-js/zoom.js', async: true },
+	{ src: 'reveal.js/plugin/notes/notes.js', async: true }
+    ]
 
 });
 

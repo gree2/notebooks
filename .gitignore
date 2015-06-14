@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 reveal.js
+node_modules
 *.html
 *.css
-
+*.pyc
